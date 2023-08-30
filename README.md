@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 11 July 2023 - To: 27 August 2023
+From: 11 July 2023 - To: 28 August 2023
 
-Total Time: 34 hrs 32 mins
+Total Time: 36 hrs 25 mins
 
-HTML         18 hrs          >>>>>>>>>>>>>------------   52.12 %
-CSS          14 hrs 2 mins   >>>>>>>>>>---------------   40.63 %
-JavaScript   2 hrs 30 mins   >>-----------------------   07.25 %
+HTML         19 hrs 37 mins  >>>>>>>>>>>>>------------   53.87 %
+CSS          14 hrs 17 mins  >>>>>>>>>>---------------   39.25 %
+JavaScript   2 hrs 30 mins   >>-----------------------   06.88 %
 ```
 
 <!--END_SECTION:waka-->
