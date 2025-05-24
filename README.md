@@ -1,13 +1,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 11 July 2023 - To: 21 May 2025
+From: 11 July 2023 - To: 22 May 2025
 
-Total Time: 200 hrs 4 mins
+Total Time: 202 hrs 45 mins
 
-HTML             105 hrs 9 mins  >>>>>>>>>>>>>------------   52.56 %
-CSS              81 hrs 1 min    >>>>>>>>>>---------------   40.50 %
-JavaScript       13 hrs 42 mins  >>-----------------------   06.85 %
+HTML             107 hrs 49 mins >>>>>>>>>>>>>------------   53.18 %
+CSS              81 hrs 2 mins   >>>>>>>>>>---------------   39.97 %
+JavaScript       13 hrs 42 mins  >>-----------------------   06.76 %
 XML              5 mins          -------------------------   00.04 %
 GitIgnore file   4 mins          -------------------------   00.03 %
 SVG              0 secs          -------------------------   00.01 %
